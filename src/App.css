@@ -1,0 +1,14 @@
+/* .App {
+  text-align: center;
+} */
+
+
+.header-container {
+  background-color: blue;
+  height: 4rem;
+  color: #ffff;
+}
+
+.header-content{
+  padding: 1rem 1.2rem;
+}
